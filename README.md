@@ -2,6 +2,17 @@
 
 AI-Powered Machine Failure Prediction System built using Machine Learning and Streamlit.
 
+## 🚀 Live Demo
+
+🔗 https://predictive-maintenance-system-nkmlt3cvxpdp3lkhykrjju.streamlit.app/
+
+Try the deployed application to explore:
+
+* 📊 Machine Analytics Dashboard
+* 🤖 Failure Prediction System
+* 🚨 Live Monitoring Dashboard
+* 📈 Model Performance Analysis
+
 ## 📌 Project Overview
 
 Predictive Maintenance AI is an industrial machine monitoring and failure prediction system that helps identify potential machine failures before breakdowns occur.
