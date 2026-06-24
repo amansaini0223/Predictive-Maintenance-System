@@ -1,0 +1,12 @@
+streamlit
+pandas
+numpy
+scikit-learn
+xgboost
+plotly
+joblib
+matplotlib
+seaborn
+
+run in terminal:
+pip install -r requirements.txt
